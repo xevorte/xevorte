@@ -1,7 +1,5 @@
 ### Hi I'm Irham Shidiq !
 
-![Profile views](?)
-
 <a href="https://www.instagram.com/irham_shidiq7/">
   <img align="left" alt="IrhamShidiq's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -31,14 +29,10 @@ Hi I'm **Irham Muhammad Shidiq**, a **Web Designer** and a **Software Engineerin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<details>
 <b> My Github Statistic </b>
   <br />
   
  [![IrhamShidiq's github stats](https://github-readme-stats.vercel.app/api?username=IrhamShidiq)](https://github.com/IrhamShidiq/C.U.B.A.B-Travel)
- 
-  </details>
-
 
 
 
