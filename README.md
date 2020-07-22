@@ -17,10 +17,11 @@
 <br />
 <br />
 
-Hi I'm **Irham Muhammad Shidiq**, a **Web Designer** and a **Software Engineering Student** from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid)
+Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** and a **Software Engineering Student** from Indonesia.<br />
+currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid)
 
 - 🌱 I’m currently learning PHP & Javascript; 
-- 🤔 My interests are with front-end & web designing;
+- 🤔 My interests are with web designing & web development;
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via birhamshidiq@gmail.com to reach me.
 - 📝 See my [Portfolio](https://irhamshidiq.github.io) to get more info.
