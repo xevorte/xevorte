@@ -20,15 +20,11 @@
 Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** and a **Software Engineering Student** from Indonesia.<br />
 currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid)
 
-- 🌱 I’m currently learning PHP & Javascript; 
-- 🤔 My interests are with web designing & web development;
+- 🌱 I’m currently learning flutter, php, javascript; 
+- 🤔 My interests are with web development & app development;
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via birhamshidiq@gmail.com to reach me.
 - 📝 See my [Portfolio](https://irhamshidiq.github.io) to get more info.
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <b> My Github Statistic </b>
   <br />
