@@ -1,4 +1,4 @@
-### Hi I'm Irham Shidiq !
+### Hi I'm Irham Muhammad Shidiq !
 
 <a href="https://www.instagram.com/irham_shidiq7/">
   <img align="left" alt="IrhamShidiq's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
