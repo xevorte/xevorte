@@ -1,6 +1,6 @@
 ### Hi I'm Irham Muhammad Shidiq !
 
-<a href="https://www.instagram.com/irham_shidiq7/">
+<a href="https://www.instagram.com/irhamshidiq.dev/">
   <img align="left" alt="IrhamShidiq's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/irhamshidiq.7/">
@@ -8,9 +8,6 @@
 </a>
 <a href="https://dribbble.com/IrhamShidiq">
   <img align="left" alt="IrhamShidiq's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCc67bq-t9tp_RiF7BR1w9IQ?">
-  <img align="left" alt="IrhamShidiq's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 
