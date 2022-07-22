@@ -14,8 +14,7 @@
 <br />
 <br />
 
-Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** and a **Software Engineering Student** from Indonesia.<br />
-currently, I'm a Community Team Member 🙍🏽‍♂️ [@Devover](https://github.com/devoverid)
+Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** and a **Software Engineering Student** from Indonesia.
 
 - 🌱 I’m currently learning flutter, php, javascript; 
 - 🤔 My interests are with web development & app development;
