@@ -25,7 +25,7 @@ Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** and a **Software Engineeri
 <b> My Github Statistic </b>
   <br />
   
- [![IrhamShidiq's github stats](https://github-readme-stats.vercel.app/api?username=IrhamShidiq)](https://github.com/IrhamShidiq/C.U.B.A.B-Travel)
+ [![Xevorte's github stats](https://github-readme-stats.vercel.app/api?username=xevorte)](https://github.com/xevorte/C.U.B.A.B-Travel)
 
 
 
