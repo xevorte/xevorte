@@ -14,9 +14,9 @@
 <br />
 <br />
 
-Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** and a **Software Engineering Student** from Indonesia.
+Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** from Indonesia.
 
-- 🌱 I’m currently learning flutter, php, javascript; 
+- 🌱 I’m currently learning react, next, vue; 
 - 🤔 My interests are with web development & app development;
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via birhamshidiq@gmail.com to reach me.
