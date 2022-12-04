@@ -16,7 +16,7 @@
 
 Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** from Indonesia.
 
-- 🌱 I’m currently learning react, next, vue; 
+- 🌱 I’m currently learning MERN Stack; 
 - 🤔 My interests are with web development & app development;
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via birhamshidiq@gmail.com to reach me.
