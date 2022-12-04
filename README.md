@@ -16,9 +16,9 @@
 
 Hi I'm **Irham Muhammad Shidiq**, a **Web Developer** from Indonesia.
 
-- 🌱 I’m currently learning MERN Stack; 
-- 🤔 My interests are with web development & app development;
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning MERN Stack.
+- 🤔 My interests are with web development & app development.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via birhamshidiq@gmail.com to reach me.
 - 📝 See my [Portfolio](https://irhamshidiq.github.io) to get more info.
 
